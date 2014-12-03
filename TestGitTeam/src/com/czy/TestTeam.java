@@ -4,7 +4,4 @@ public class TestTeam {
 
 	int teamab;
 	// asdasd
-	// asdasd //asdasd //asdasd
-	// asdasd //asdasd //asdasd
-	// asdasd
 }
