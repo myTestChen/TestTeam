@@ -2,5 +2,5 @@ package com.czy;
 
 public class TestTeam {
 
-	int teama;
+	int teamab;
 }
