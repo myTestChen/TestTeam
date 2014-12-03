@@ -2,14 +2,11 @@ package com.czy;
 
 public class TestTeam {
 
-	int teamab;
-	// asdasd
-	// asdasd //asdasd //asdasd
-	// asdasd //asdasd //asdasd
-	// asdasd
-	int teama;
-	// asdasd
-	// asdasd //asdasd //asdasd
-	// asdasd //asdasd //asdasd
-	// asdasd
+	// this is TestB by
+	// nothing chenasdasd
+	// this is TestB by nothing chenasdasd
+	// this is TestB by nothing chenasdasd
+	// this is TestB by nothing chenasdasd
+	// this is TestB by nothing chenasdasd
+	// this is TestB by nothing chenasdasd
 }
